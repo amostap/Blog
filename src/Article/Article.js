@@ -22,7 +22,7 @@ class Article extends Component {
         <p className="date">
           {Content.Articles[a - 1].date}
         </p>
-        <Link to="/">back</Link>
+        <Link to="/" className="article--back">back</Link>
       </div>
     );
   }

@@ -17,6 +17,17 @@
   font-weight: 400;
 }
 
+.article--back {
+  color: rgb(65, 209, 218);
+  text-decoration: none;
+  padding: 5px;
+  font-size: 1rem;
+}
+
+.article--back:hover{
+  text-decoration: underline;
+}
+
 .article img {
   width: 100%;
   height: auto;
