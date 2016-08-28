@@ -1,13 +1,11 @@
 .preview {
-
-  border: 1px solid #eee;
-
+  width: 70%;
   margin: 2rem auto;
   padding: 1rem;
-  box-shadow: 0 0 10px 1px #eee;
 
+  border: 1px solid #eee;
   border-radius: 2px;
-  width: 70%;
+  box-shadow: 0 0 10px 1px #eee;
 }
 
 ul{
@@ -23,16 +21,20 @@ ul{
 }
 
 .preview--h2 {
+  margin-top: 0.3rem;
+
   text-align: center;
+
   font-size: 1.2rem;
   font-weight: 400;
-  margin-top: 0.3rem;
 }
 
 .preview img {
-  transition: ease-in-out .2s;
   width: 100%;
   height: auto;
+
+  transition: ease-in-out .2s;
+
   border-radius: 2px;
 }
 

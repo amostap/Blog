@@ -10,7 +10,7 @@ const Header = () => (
 
 const Footer = () => (
   <div className="App-footer">
-    <a href="https://github.com/amostap" target='_blank'>git</a>
+    <a href="https://github.com/amostap/Blog" target='_blank'>git (source code)</a>
   </div>
 );
 
