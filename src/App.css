@@ -1,0 +1,55 @@
+html {
+  color: black;
+  font-family: sans-serif;
+  height: 100%;
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-size: 20px;
+  position: relative;
+  margin: 0;
+  padding-bottom: 6rem;
+  min-height: 100%;
+}
+
+.App-header {
+  text-align: left;
+  border-bottom: 1px solid #eee;
+  width: 100%;
+  display: block;
+}
+
+.App-header > a {
+  color: #4078c0;
+  text-decoration: none;
+  font-size: 1.1rem;
+  display: inline-block;
+  padding: 1rem;
+  margin: 1rem;
+  width: auto;
+}
+
+.App-footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  border-top: 1px solid #eee;
+  width: 100%;
+}
+.App-footer > a {
+  font-size: 0.9rem;
+  display: inline-block;
+  padding: 1rem;
+  margin: 1rem;
+  color: #4078c0;
+  text-decoration: none;
+}

@@ -1,0 +1,28 @@
+{
+  "Articles": [
+    {
+      "id": 1,
+      "header": "Header1",
+      "image": "https://pp.vk.me/c604519/v604519632/24433/vgPgevUn5vA.jpg",
+      "author": "Alex Ostapenko",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "date": "8/27/2016"
+    },
+    {
+      "id": 2,
+      "header": "Header2",
+      "image": "https://pp.vk.me/c604519/v604519632/2442a/3f7jMNd0VHg.jpg",
+      "author": "Alex Ostapenko",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "date": "8/27/2016"
+    },
+    {
+      "id": 3,
+      "header": "Header3",
+      "image": "https://pp.vk.me/c604519/v604519632/2442a/3f7jMNd0VHg.jpg",
+      "author": "Alex Ostapenko",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "date": "8/27/2016"
+    }
+  ]
+}

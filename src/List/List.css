@@ -1,0 +1,42 @@
+.preview {
+
+  border: 1px solid #eee;
+
+  margin: 2rem auto;
+  padding: 1rem;
+  box-shadow: 0 0 10px 1px #eee;
+
+  border-radius: 2px;
+  width: 70%;
+}
+
+ul{
+  list-style-type: none;
+}
+
+.preview a {
+  text-decoration: none;
+}
+
+.preview a:hover {
+  text-decoration: underline;
+}
+
+.preview--h2 {
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  margin-top: 0.3rem;
+}
+
+.preview img {
+  transition: ease-in-out .2s;
+  width: 100%;
+  height: auto;
+  border-radius: 2px;
+}
+
+.preview img:hover {
+  transition: ease-in-out .2s;
+  transform: scale(1.03,1.03);
+}
